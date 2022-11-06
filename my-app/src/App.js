@@ -15,11 +15,8 @@ function App() {
         {
             menu.map( (menuItem, key) => <li>{menuItem.value}</li>)
         }
-        //зробить для селекта
+        {/* //зробить для селекта*/}
         <h3>{text}</h3>
-
-
-        //
     </div>
   );
 }
